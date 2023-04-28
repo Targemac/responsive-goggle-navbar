@@ -5,7 +5,7 @@ Developer: Targema Charles
 Date: 28th April 2023
 ```
 ## Mobile View
-![](./img/Screenshot%20(73).png)
+![](./img/Screenshot%20(74).png)
 
 
 ## Desktop View
